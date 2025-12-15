@@ -33,3 +33,4 @@ local
 
 # vercel
 .vercel
+\n# Gemini config\n.gemini/
